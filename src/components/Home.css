@@ -1,0 +1,6 @@
+.bgfon {
+  position: absolute;
+  width: 100%;
+  background-image: url("../images/bgfon.svg");
+  background-repeat: no-repeat;
+}
